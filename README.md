@@ -7,8 +7,8 @@ This project implements automatic hand tracking in videos 🎬 using MediaPipe f
 
 1. Clone this repository: ⬇️
    ```bash
-   git clone https://github.com/dpraj007/automatic-hand-tracking.git
-   cd automatic-hand-tracking
+   git clone https://github.com/dpraj007/Automatic_hand_tracking.git
+   cd Automatic_hand_tracking
    ```
 
 2. Create a virtual environment (optional but recommended):  virtual environment isolates project dependencies 📦
