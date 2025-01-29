@@ -1,4 +1,4 @@
-```markdown
+
 # 👋 Automatic Hand Tracking with SAM 2 🖐️
 
 This project implements automatic hand tracking in videos 🎬 using MediaPipe for hand detection 🔍 and Segment Anything Model 2 (SAM 2) for segmentation 🧠.
